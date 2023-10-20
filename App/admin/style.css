@@ -1,0 +1,29 @@
+fieldset{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	margin-top: 20px;
+}
+.generated-content{
+grid-column: 1/13;
+
+}
+.images-container{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.images-container img{
+	width: 90%;
+    height: 81px;
+    margin: 0 auto;
+}
+.image2{
+	width: 90%;
+	height: 100px;
+}
+.images-container2{
+	
+}
